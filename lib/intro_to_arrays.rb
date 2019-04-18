@@ -9,3 +9,7 @@ end
 def first_element(new_array)
   new_array.first
 end
+
+def third_element(array)
+  array[0]
+end
